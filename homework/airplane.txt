@@ -1,0 +1,46 @@
+Airplane classes
+
+1 - Captain
+  methods include flightcheck, fly_plane, announce, emergency
+
+2 - Co-Pilot
+  methods: instrument_check, fly_plane, critique pilot
+
+3 - FlightCrew
+  methods: safety_announcement, beverage_service, food_service, emergency
+
+4 - Door
+  methods: open, close
+
+5 - FirstClassSeat
+  methods: recline, hold_beverage, hold_pretentious_asshole, hold_imposter
+
+6 - EconomySeat
+  methods: break, sort_of_recline, bend_knees_of_tall_person
+
+7 - LandingGear
+  methods: deploy, retract, tire-pressure
+
+8 - Flaps
+  methods: ascend, descend, level_off
+
+9 - Stabilizer
+  methods: bank_left, bank_right, oh_shit
+
+10- Engine
+  methods: increase_throttle, decrease_throttle, taxi
+
+11- Fuselage
+  attributes: first_class_capacity, economy_capacity, type
+
+12- altimeter
+  methods: check_altitude
+
+13- AirspeedIndicator
+  methods: check_speed
+
+14- Radio
+  methods: send, receive
+
+15- BlackBox
+  methods: record, play_back
